@@ -1,5 +1,5 @@
 export const generateN01 = () => {
-  // Generam o variabila aleatoare N(0, 1)
+  // Generam N(0, 1)
   let sum = 0.0;
   let X = 0;
   for (var i = 0; i < 12; i += 1) {
